@@ -141,4 +141,3 @@ def flip_player():
 
 
 play_game()
-#havent done any global variables
